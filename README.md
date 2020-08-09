@@ -3,7 +3,6 @@
 Frontend: 
 - React 
   - socket.io
-  - bootstrap
   - styled components
   - Bootstrap
   
