@@ -12,10 +12,10 @@ Backend:
 
 Join Page:
 
-![Join Page Image](/readMeImages/Chat.jpg)
+![Join Page Image](/readMeImages/Join.png)
 
 Chat Page
 
-![Chat Page Image](/readMeImages/Join.jpg)
+![Chat Page Image](/readMeImages/Chat.jpg)
 
 Currently Expanding into a card-game app
